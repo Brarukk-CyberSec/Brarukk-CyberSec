@@ -4,7 +4,7 @@ Certificado en Ciberseguridad por Google y apasionado por la defensa de los acti
 Actualmente enfocando mis esfuerzos en la práctica real y el análisis forense de tráfico.
 
 ## 🛠️ Tecnologías y Herramientas
-- **Análisis de Red:** Wireshark, TCPDump.
+- **Análisis de Red:** Wireshark, Network Miner, TCPDump.
 - **Sistemas:** Linux (Kali, Ubuntu), Windows Hardening.
 - **SIEMs:** Familiarizado con Google Chronicle(teoría), y practicando Splunk en entornos de laboratorio.
 - **Programación:** Python orientado a automatización de seguridad.
